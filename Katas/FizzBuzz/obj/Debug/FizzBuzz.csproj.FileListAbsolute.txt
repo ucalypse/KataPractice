@@ -1,6 +1,0 @@
-C:\Users\i813096\source\repos\Katas\FizzBuzz\bin\Debug\FizzBuzz.exe.config
-C:\Users\i813096\source\repos\Katas\FizzBuzz\bin\Debug\FizzBuzz.exe
-C:\Users\i813096\source\repos\Katas\FizzBuzz\bin\Debug\FizzBuzz.pdb
-C:\Users\i813096\source\repos\Katas\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
-C:\Users\i813096\source\repos\Katas\FizzBuzz\obj\Debug\FizzBuzz.exe
-C:\Users\i813096\source\repos\Katas\FizzBuzz\obj\Debug\FizzBuzz.pdb
